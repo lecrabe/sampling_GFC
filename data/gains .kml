@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gains" id="gains">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="value" type="int"></SimpleField>
+</Schema>
+<Folder><name>gains</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.557559758651003,12.899313875155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.560559756726697,12.895563839951899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5388097706781,12.861063516083499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.543309767791598,12.845313368230499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.517809784148398,12.6653116784825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.559809757207802,11.7150527580212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.250310597178597,11.620551870903499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5590597576888,11.0047960905572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.136310670303203,10.69204315462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.135560670784301,10.691293147579399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.136310670303203,10.691293147579399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.134810671265399,10.6905431405388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.134810671265399,10.689793133498201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.760059628758597,10.0410370433647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.760809628277499,10.036537001120999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.751809634050502,9.87678550146965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.752559633569398,9.86853542402287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.753309633088399,9.867785416982249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.754059632607301,9.8655353958604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.757809630201898,9.86253536769793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6828096783102,9.78828467067688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.683559677829102,9.78828467067688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.684309677347997,9.78828467067688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6828096783102,9.78753466363626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">92</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.685809676385801,9.78753466363626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">96</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.683559677829102,9.78678465659565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">97</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.684309677347997,9.78678465659565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">107</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.685809676385801,9.786034649555029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">112</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.684309677347997,9.78528464251441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">120</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.685809676385801,9.784534635473801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">122</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.687309675423698,9.784534635473801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">124</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.679809680234499,9.78378462843318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">126</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.681309679272303,9.78378462843318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">141</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.682059678791198,9.78228461435195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">147</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.676059682639902,9.78078460027071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">149</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6775596816777,9.78078460027071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">150</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.676059682639902,9.7800345932301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">151</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.676809682158797,9.7800345932301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">153</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.678309681196701,9.7800345932301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">157</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.681309679272303,9.7800345932301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">161</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6775596816777,9.77928458618948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">162</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.679059680715604,9.77928458618948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">163</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.679809680234499,9.77928458618948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">166</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.682059678791198,9.77928458618948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">176</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.678309681196701,9.777784572108249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">180</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.681309679272303,9.777784572108249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">200</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.676059682639902,9.723784065183841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">203</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.658059694185901,9.70878392437151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">204</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.747309636936997,9.64278330479724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">210</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.477562375742401,9.504782009323771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">219</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.959812066406002,9.32403031253514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">227</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8068102402151,9.272279826732589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">230</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.033310094927998,9.270779812651361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">237</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.843560216641997,9.267779784488891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">239</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.820310231555602,9.26552976336704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">253</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.830060225301501,9.264029749285809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">256</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.815060234923202,9.26177972816396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">263</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,9.260279714082721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">272</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.837560220490701,9.25877970000149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">286</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.842810217123102,9.25727968592026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">310</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.839810219047401,9.253529650717169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">314</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.833810222896098,9.252029636635941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">318</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.824060229150199,9.25127962959532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">320</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0085601108037,9.25127962959532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">327</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9935601204254,9.2505296225547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">328</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.004810113209203,9.2505296225547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">333</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.833810222896098,9.24977961551409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">334</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.839810219047401,9.24977961551409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">361</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0138101074362,9.248279601432859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">379</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.989810122830797,9.245279573270389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">387</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.988310123792999,9.24302955214854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">388</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.989060123311901,9.24302955214854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">389</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.989810122830797,9.24302955214854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">390</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.916310169977002,9.24227954510792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">391</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.987560124274097,9.24227954510792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">392</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.989060123311901,9.24227954510792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">394</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9913101218687,9.24227954510792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">395</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9860601252362,9.241529538067301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">397</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.808310239252897,9.24002952398607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">398</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.804560241658301,9.237779502864219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">400</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9178101690148,9.236279488782991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">402</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.984560126198403,9.236279488782991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">403</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.633810992628803,9.23477947470176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">410</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.004810113209203,9.23402946766114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">422</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9028101786365,9.228779418376821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">426</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.875810195955403,9.22727940429559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">430</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.874310196917598,9.22577939021436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">432</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.872060198360799,9.225029383173741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">434</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.880310193068901,9.225029383173741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">435</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.984560126198403,9.225029383173741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">436</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.985310125717298,9.225029383173741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">437</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.044560087711801,9.225029383173741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">444</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8900601868149,9.22352936909251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">470</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.880310193068901,9.21602929868634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">473</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8825601916257,9.21602929868634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">481</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.992810120906498,9.21527929164572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">487</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.870560199323002,9.213779277564489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">489</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.692310955104404,9.21227926348325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">493</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.956060144479601,9.21077924940202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">498</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.055810080495498,9.20777922123956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">501</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.058810078571199,9.20777922123956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">505</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.959810142074097,9.206279207158319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">506</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0543100814577,9.206279207158319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">512</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0543100814577,9.205529200117701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">513</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.055060080976602,9.205529200117701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">521</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.960560141593099,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">522</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9710601348579,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">523</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.971810134376803,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">525</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0543100814577,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">529</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.058060079052296,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">532</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.060310077609003,9.204779193077091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">535</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.055060080976602,9.20402918603647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">541</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.609811008023499,9.201029157874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">545</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.954560145441697,9.1965291156303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">561</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.661308409213298,9.13502853829973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">566</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.762560268599003,9.116278362284319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">571</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.767810265231397,9.112528327081231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">581</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.787310252723202,9.111778320040621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">585</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.788060252242097,9.111028313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">588</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.556061683945103,9.10952829891877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">593</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.556061683945103,9.108778291878149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">604</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.780560257052997,9.10502825667507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">614</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.741560282069301,9.1020282285126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">616</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.752810274852997,9.1020282285126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">617</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.753560274371999,9.1020282285126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">622</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.753560274371999,9.101278221471979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">628</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.689810315263998,9.0975281862689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">634</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.663560332101902,9.09527816514705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">638</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.583061666626101,9.09452815810643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">643</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.761060269561099,9.09227813698458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">645</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.770060263788103,9.09077812290335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">649</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.815810234442097,9.09077812290335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">650</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.816560233960999,9.09077812290335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">652</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,9.09077812290335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">654</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.769310264269201,9.090028115862729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">663</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7588102710044,9.08927810882212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">665</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8143102354042,9.08927810882212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">672</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,9.088528101781501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">674</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.822560230112302,9.088528101781501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">687</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.752060275334102,9.084778066578419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">688</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8143102354042,9.084778066578419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">695</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.771560262826,9.081778038415949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">696</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,9.081778038415949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">702</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.821060231074497,9.081028031375331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">712</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.770060263788103,9.07877801025348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">714</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.824060229150199,9.07877801025348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">717</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.823310229631197,9.078028003212861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">723</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8270602272258,9.07652798913163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">728</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.826310227706898,9.0750279750504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">736</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.417560489897099,9.06752790464423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">738</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.699810950293497,9.06302786240053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">744</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.800060244544802,9.049527735669431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">745</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.800810244063697,9.049527735669431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">748</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.361312450310301,9.04502769342573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">750</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.357562452715698,9.04427768638511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">754</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.809810238290702,9.03977764414141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">758</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.562310397048101,9.000777278029339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">766</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.273309940981498,8.898026313464859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">767</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.274059940500401,8.898026313464859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">770</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.272559941462497,8.89577629234301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">776</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.277809938094997,8.89277626418054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">784</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.679310321999203,8.88827622193684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">785</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.268059944348998,8.88827622193684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">797</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.482311089807602,8.864275996637099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">803</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.044311370760099,8.84552582062169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">806</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.467311099429303,8.830525679809361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">817</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7440609219096,8.801275405225301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">837</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.587311022455999,8.739774827894729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">839</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.654060979639603,8.735274785651031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">854</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.420061129737498,8.70977454627007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">862</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.940312078914197,8.698524440660821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">863</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.630060995034299,8.6977744336202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">866</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.735062852014501,8.68652432801095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">871</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7298128553821,8.68577432097033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">872</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.726062857787497,8.685024313929709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">883</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.292559287189697,8.610023609868041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">891</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.550310404745403,8.462272222866551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">898</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.227311253375802,8.40752170890153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">903</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.099809410828001,8.40752170890153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">916</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.923559523882503,8.39927163145475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">921</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.919809526287899,8.39852162441413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">922</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.920559525806901,8.39852162441413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">931</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.225811254337998,8.38727151880488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">933</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.227311253375802,8.38727151880488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">936</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.803559600855799,8.382771476561191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">942</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.9250595229203,8.372271377992551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">945</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.217561259629903,8.3700213568707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">946</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.218311259148798,8.3700213568707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">947</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.224311255300101,8.3700213568707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">950</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.3023112052675,8.364771307586381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">953</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.228061252894697,8.33627104004295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">955</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.232561250008203,8.33627104004295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">956</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.2340612490461,8.33552103300233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">959</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.171061289457,8.325020934433701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">961</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.914559529655499,8.31752086402753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">964</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.180811283202999,8.26502037118436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">972</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.222562539310601,8.21176987130058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">976</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221812539791699,8.209519850178729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">977</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.221812539791699,8.208769843138111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">985</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.557062324747598,8.151769308051239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">986</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.457312388731602,8.150269293970011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">990</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4948123646775,8.13226912499521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">991</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.495562364196402,8.131519117954589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">995</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.273061224029803,8.07076854766464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">998</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.546309765867299,8.049768350527369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1006</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.426061125888801,8.03551821675565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1010</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.417309848613499,8.018268054821471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1015</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.244061884075599,7.99501783656235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1023</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.687311599755603,7.98226771687187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1029</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.187561278873197,7.93576728035363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1031</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.189061277911001,7.93576728035363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1032</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.186811279354302,7.93501727331301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1039</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.188311278392099,7.93351725923178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1057</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.277059938576002,7.86451661149504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1063</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4895623680451,7.83751635803284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1075</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.854561492473998,7.78876590039276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1084</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.771812828441497,7.58476398534502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1088</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.914810170939099,7.54126357698925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1094</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.904310177674297,7.52176339393321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1095</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.905060177193199,7.52176339393321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1096</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.905810176712102,7.52176339393321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1105</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.0768100670252,7.48951309118669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1137</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.851060211831197,7.43401257018106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1144</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.848810213274398,7.42726250681551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1145</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8495602127933,7.42726250681551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1147</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.848810213274398,7.42651249977489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1148</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8495602127933,7.42651249977489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1152</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8473102142366,7.42201245753119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1158</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.858560207020297,7.40851233080009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1162</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.861560205095998,7.40626230967824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1164</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.863060204133802,7.40626230967824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1169</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.861560205095998,7.40551230263762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1170</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.857060207982499,7.40476229559701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1175</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.860810205577103,7.40476229559701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1176</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.861560205095998,7.40476229559701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1181</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.857810207501402,7.40326228151577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1182</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.860810205577103,7.40326228151577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1183</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8623102046149,7.40326228151577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1191</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.857810207501402,7.40176226743454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1205</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.860810205577103,7.39051216182529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1211</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.133811954794801,7.37176198580987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1216</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8623102046149,7.34251171122582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1219</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.146561946616401,7.33501164081965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1227</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.816560233960999,7.31701147184485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1233</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.820310231555602,7.30951140143869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1234</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,7.30876139439807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1249</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.821060231074497,7.30726138031684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1253</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.820310231555602,7.30651137327622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1259</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818060232998803,7.30501135919499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1260</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818810232517698,7.30501135919499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1261</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8195602320367,7.30501135919499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1267</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.821060231074497,7.30426135215437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1270</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.818810232517698,7.30276133807314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1272</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.935810157468801,7.29976130991067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1273</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.230062534499801,7.28851120430142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1277</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.324562473883297,7.22251058472715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1282</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.600062938609497,7.1842602256557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1285</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.065561998573301,7.1752601411683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1296</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8143102354042,7.05000896538531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1312</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.637310348939799,6.79275655045378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1324</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.171310006408703,6.74475609985431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1326</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.166810009295197,6.74175607169184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1327</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.168310008333101,6.74100606465123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1331</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.452559826002599,6.71925586047334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1332</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.002560114652397,6.71475581822964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1333</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7160602984261,6.71025577598594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1334</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7163109397097,6.70725574782348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1337</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.877310194993299,6.67050540283326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1345</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.275561863870102,6.63075502968057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1349</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.437812401239803,6.62250495223379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1354</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.129310033349398,6.59025464948727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1355</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.505059792326797,6.59025464948727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1358</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.556059759613198,6.58350458612172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1361</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.769811546836401,6.57975455091864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1365</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.8695595585205,6.51750396654745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1369</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.622059717277899,6.44175325544516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1372</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5793097446996,6.40575291749556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1373</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.092810698206101,6.40200288229248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1380</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.017560105030803,6.21225110101645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1383</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.630311636317899,6.13500037583293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1385</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.755060273409804,6.10725011533012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1389</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.773060261863797,6.09449999563963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1393</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.5925610190884,6.03674945351215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1399</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.762810909882603,6.00224912964378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1400</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.640061630063798,5.97374886210034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1406</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.941060154101201,5.89049808059189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1412</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.942560153138999,5.88974807355127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1413</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.937310156506598,5.88899806651066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1416</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.136810028538598,5.88599803834819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1428</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.130810032387203,5.87699795386079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1432</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.242559960705897,5.87024789049524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1444</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.770060263788103,5.8327475384644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1445</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.950060148328198,5.83199753142379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1448</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.7368115680041,5.79899722163665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1449</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.704810305642397,5.79899722163665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1453</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.584561665663898,5.75699682736212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1455</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.584810382615601,5.73524662318423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1462</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.362309242449001,5.4374938280594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1464</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.570309750472603,5.26874224392065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gains">
+		<SimpleData name="id">1469</SimpleData>
+		<SimpleData name="value">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.638559706693997,5.16524127231554</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
